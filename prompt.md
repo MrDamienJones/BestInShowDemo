@@ -1,0 +1,1 @@
+I want to integrate booking functionality into this site.  I want the bookings to be on a dedicated page accessible via the nav bar.  I want advice on whether I should build my own booking platform or use an existing service - if this, then help me choose which one.  Use the existing sites as a template.  Add unit tests.  Ask anything you need.
